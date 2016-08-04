@@ -1,0 +1,37 @@
+_repo: Daisy-Miller--A-Study_208
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: A unique novella during its time, Daisy Miller tells the story of the
+  American title character, her flirtatious relationships with men she meets in Switzerland
+  and Italy, and how Europeans and Americans view her actions. Although Frederick
+  Winterbourne, an American vacationing from his studies, receives scoldings and disapprovals
+  from his aunt and neighbors about hanging around Daisy Miller, he cannot help but
+  be attracted to her. Daisy breaks many social conventions with men by meeting them
+  in unchaperoned locations and being out after dark with those she hardly knows.
+  While author Henry James was met with some criticism of the work, including reviews
+  that held the story as "an outrage on American girlhood," the novella continues
+  to be one of James' most popular works.
+gutenberg_issued: '2008-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcsh 'Europe -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: 'Daisy Miller: A Study'
+url: http://www.gutenberg.org/ebooks/208
